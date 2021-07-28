@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={portfolioImage} className="App-logo" alt="logo" />
         <p>Ujjwal Kaushik</p>
-        <p>Senior FrontEnd Developer | SDE-III</p>
+        <p>Senior Front End Developer | SDE-III</p>
       </header>
     </div>
   );
