@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.55ff3d3b.chunk.css",
-    "main.js": "/portfolio/static/js/main.1a9df34c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1a9df34c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e4310693.chunk.css",
+    "main.js": "/portfolio/static/js/main.1acf5b82.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1acf5b82.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.01d8d57f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.01d8d57f.js.map",
     "static/js/2.8590d205.chunk.js": "/portfolio/static/js/2.8590d205.chunk.js",
@@ -10,18 +10,19 @@
     "static/js/3.9b245b38.chunk.js": "/portfolio/static/js/3.9b245b38.chunk.js",
     "static/js/3.9b245b38.chunk.js.map": "/portfolio/static/js/3.9b245b38.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.55ff3d3b.chunk.css.map": "/portfolio/static/css/main.55ff3d3b.chunk.css.map",
+    "static/css/main.e4310693.chunk.css.map": "/portfolio/static/css/main.e4310693.chunk.css.map",
     "static/js/2.8590d205.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8590d205.chunk.js.LICENSE.txt",
     "static/media/github.7eb5baeb.svg": "/portfolio/static/media/github.7eb5baeb.svg",
     "static/media/linkedin.bd433cfd.svg": "/portfolio/static/media/linkedin.bd433cfd.svg",
     "static/media/portfolio.12ffeee0.PNG": "/portfolio/static/media/portfolio.12ffeee0.PNG",
     "static/media/stackoverflow.156661cc.svg": "/portfolio/static/media/stackoverflow.156661cc.svg",
+    "static/media/starwar.c631b3d1.gif": "/portfolio/static/media/starwar.c631b3d1.gif",
     "static/media/twitter.ea7b9c1f.svg": "/portfolio/static/media/twitter.ea7b9c1f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01d8d57f.js",
     "static/js/2.8590d205.chunk.js",
-    "static/css/main.55ff3d3b.chunk.css",
-    "static/js/main.1a9df34c.chunk.js"
+    "static/css/main.e4310693.chunk.css",
+    "static/js/main.1acf5b82.chunk.js"
   ]
 }
